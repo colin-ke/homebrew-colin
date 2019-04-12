@@ -1,6 +1,6 @@
 require 'formula'
 
-class Protobuf < Formula
+class ProtobufAT241 < Formula
   url 'https://github.com/protocolbuffers/protobuf/releases/download/v2.4.1/protobuf-2.4.1.tar.bz2'
 
   def install
